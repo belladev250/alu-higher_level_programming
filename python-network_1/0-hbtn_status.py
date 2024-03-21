@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 """Documented by Lsblack"""
 import urllib.request
 
